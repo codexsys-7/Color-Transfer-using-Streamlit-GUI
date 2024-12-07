@@ -16,6 +16,7 @@ Visual studio code
 
 #### **Steps to install the dependencies.**
 1. Navigate to the path where all your code files are stored.
+
 **cd “path”**
 2. Run **“pip install -r requirements.txt”**
 The above code will install all the required libraries without the need of manually install them one at a time.
