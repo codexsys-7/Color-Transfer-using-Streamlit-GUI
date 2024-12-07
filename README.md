@@ -30,6 +30,7 @@ The above code will redirect to the streamlit gui in your default web browser.
 
 ### **Format and size of the input images.**
 Format - JPG, JPEG
+
 Image size - No specific size, The Final Image size is automatically updated based on the target image size.
 
 ### **Operating system**
