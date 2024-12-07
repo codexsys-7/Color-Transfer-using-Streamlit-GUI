@@ -1,6 +1,6 @@
 # Color-Transfer-using-Streamlit-GUI
 
-### **Team members name**
+### **Team member name**
 Abhinay Lingala
 Z23748294
 
@@ -18,20 +18,19 @@ Visual studio code
 1. Navigate to the path where all your code files are stored.
 **cd “path”**
 2. Run **“pip install -r requirements.txt”**
-The above code will install all the required libraries without the need of manually installing them one at a time.
+The above code will install all the required libraries without the need of manually install them one at a time.
 
 #### **Steps to execute the code:**
 1. Once all the dependencies are installed.
-2. Run **“streamlit run Team_13_CTS.py”**
-The above code will redirect to the streamlit gui in your default web browser.
+2. Run **“Streamlit run Team_13_CTS.py”**
+The above code will redirect to the Streamlit GUI in your default web browser.
 3. Select the Source and Target image files and click on the color transfer button.
-4. Once the button is clicked you can see the output at the bottom with the screen with an image where the color transferred from source to target image.
+4. Once the button is clicked you can see the output at the bottom of the screen with an image where the color is transferred from the source to the target image.
 
 
 ### **Format and size of the input images.**
-Format - JPG, JPEG
-
-Image size - No specific size, The Final Image size is automatically updated based on the target image size.
+1. Format - JPG, JPEG
+2. Image size - No specific size, The Final Image size is automatically updated based on the target image size.
 
 ### **Operating system**
 The source code is executed on Windows 10 machine, 8gb RAM, 256 GB SSD.
